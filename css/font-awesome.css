@@ -1699,6 +1699,9 @@
 .fa-connectdevelop:before {
   content: "\f20e";
 }
+.fa-dev:before {
+  content: "\f6cc";
+}
 .fa-dashcube:before {
   content: "\f210";
 }
